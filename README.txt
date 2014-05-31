@@ -1,0 +1,1 @@
+Naomi/Chihiro/Triforce boot scripts based on TBMINC's python scripts
