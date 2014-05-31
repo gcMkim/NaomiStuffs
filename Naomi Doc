@@ -1,0 +1,5 @@
+0. Put game .bin files in .../naomi/NaomiStuffs 
+
+1. Run naomi_LOAD.sh in the .../naomi/bin directory to generate scripts
+
+2. Run generated script corresponding to the game name you want from the /naomi/bin directory
